@@ -1,5 +1,6 @@
 export interface Pokemon {
-   types: {
+
+  types: {
     type: {
       name: string   // Pegando Tipos
     };
